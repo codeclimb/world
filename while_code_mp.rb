@@ -1,5 +1,5 @@
 
-$dollar_amt = 00
+$dollar_amt = 0
 
 def saved
 	if $dollar_amt >= 25 then
